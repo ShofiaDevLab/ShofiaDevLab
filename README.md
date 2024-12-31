@@ -11,8 +11,8 @@
 
 - 🤝 I’m looking for help with **New Programming Languages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TechieDev-com](https://github.com/TechieDev-com)
+- 👨‍💻 All of my projects are available at [https://github.com/ShofiaDevLab](https://github.com/ShofiaDevLab)
 
-- 📫 How to reach me **dedisupriadi011002@gmail.com**
+- 📫 How to reach me **ghostshell@outlook.co.id**
 
 - ⚡ Fun fact **I once spent an entire day trying to fix a bug that turned out to be a missing semicolon.**
